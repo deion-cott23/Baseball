@@ -14,6 +14,7 @@ public class baseballStats {
 	private int triple;
 	private int R;
 	
+	
 	public String playerName() {
 		return name;
 	}
