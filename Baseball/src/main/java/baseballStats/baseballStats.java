@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class baseballStats {
 	private String playerName;
+	
 	private int H;
 	private int AB;
 	private int BB;
